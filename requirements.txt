@@ -11,3 +11,4 @@ umap_learn==0.5.6
 SentencePiece==0.2.0
 protobuf==5.28.2
 gdown==5.2.0
+roboflow==1.1.44
