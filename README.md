@@ -73,7 +73,7 @@ git clone https://github.com/giuliofantuzzi/Pitch2Data.git
 I recommend creating a virtual environment to avoid conflicts with your system's Python packages:
 
 ```bash
-python3 -m virtualenv Pitch2Data_env
+python -m virtualenv Pitch2Data_env
 source Pitch2Data_env/bin/activate
 ```
 
