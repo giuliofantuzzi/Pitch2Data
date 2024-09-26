@@ -1,12 +1,6 @@
 <!-------------------------------------------------------------------------------------->
 <!-- REPO STATS and MAIN LIBRARIES -->
 
-[![MIT License][license-shield]][license-url]
-
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 [![Python][python-shield]][python-url]
 [![PyTorch][pytorch-shield]][pytorch-url]
 [![Ultralytics][ultralytics-shield]][ultralytics-url]
@@ -22,7 +16,7 @@
     <br />
     <a href="./demo.py">View Demo</a>
     ·
-    <a href="https://github.com/giuliofantuzzi/Pitch2Data/issues">Report Bug</a>
+    <a href="https://github.com/giuliofantuzzi/HMMFootballTactics/issues">Report Bug</a>
     ·
     <a href="https://github.com/giuliofantuzzi/Pitch2Data/issues">Request Feature</a>
     <br />
