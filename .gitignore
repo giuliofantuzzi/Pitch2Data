@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+**/__pycache__/
+input_videos/
+output_videos/
+gifs/
+tuning/pitch_detections/football-players-detection-11/
+tuning/ball_detection/football-ball-detection-2/
+tuning/pitch_keypoints/football-field-detection-15/
+tuning/pitch_detections/runs/
+tuning/ball_detection/runs/
+tuning/pitch_keypoints/runs/
