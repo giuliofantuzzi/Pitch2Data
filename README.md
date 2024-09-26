@@ -1,5 +1,10 @@
 <!-------------------------------------------------------------------------------------->
 <!-- REPO MAIN LIBRARIES -->
+[![License][license-shield]][license-url]
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 [![Python][python-shield]][python-url]
 [![PyTorch][pytorch-shield]][pytorch-url]
 [![Ultralytics][ultralytics-shield]][ultralytics-url]
@@ -118,11 +123,13 @@ python demo.py --help
 <!-------------------------------------------------------------------------------------->
 
 <!-- SHIELDS and URLS -->
+[license-shield]: https://img.shields.io/github/license/giuliofantuzzi/Pitch2Data?style=for-the-badge&color=darkred
+[license-url]: https://github.com/giuliofantuzzi/Pitch2Data/blob/main/LICENSE
 [forks-shield]: https://img.shields.io/github/forks/giuliofantuzzi/Pitch2Data.svg?style=for-the-badge
 [forks-url]: https://github.com/giuliofantuzzi/Pitch2Data/network/members
-[stars-shield]: https://img.shields.io/github/stars/giuliofantuzzi/Pitch2Data.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/giuliofantuzzi/Pitch2Data.svg?style=for-the-badge&color=yellow
 [stars-url]: https://github.com/giuliofantuzzi/Pitch2Data/stargazers
-[issues-shield]: https://img.shields.io/github/issues/giuliofantuzzi/Pitch2Data.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/giuliofantuzzi/Pitch2Data.svg?style=for-the-badge&color=darkgreen
 [issues-url]: https://github.com/giuliofantuzzi/parallel-quicksort-algorithms/issues
 [python-shield]: https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&logoColor=%23FECC00&color=%233776AB
 [python-url]: https://www.python.org/
