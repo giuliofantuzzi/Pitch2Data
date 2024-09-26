@@ -71,6 +71,12 @@ To get started, first clone the repository (you may also want to fork it):
 ```bash
 git clone https://github.com/giuliofantuzzi/Pitch2Data.git
 ```
+> [!WARNING]
+> The command above will download the full repository, including all the pre-trained weights. <u>If you prefer a faster download</u> without the weights, <u>clone the *light-setup branch*</u> by executing:
+>  ```bash
+>  git clone https://github.com/giuliofantuzzi/Pitch2Data.git --branch light-setup --single-branch --depth 1
+>  ```
+
 
 Next, install the required dependencies
 
@@ -107,8 +113,8 @@ To know more about the options (<u>**STRONGLY SUGGESTED**</u>):
 python demo.py --help
 ```
 
-> [!WARNING]
-> If you did NOT clone the *heavy* branch (the one with the pre-trained weights), you will need to fine-tune the model on your own. To do so, you can use the notebooks provided in the [`tuning/`](tuning/) folder. 
+> [!NOTE]
+> If you have cloned the *light-setup*, you will need to fine-tune the model on your own. To do so, you can use the notebooks provided in the [`tuning/`](tuning/) folder. 
 <!-------------------------------------------------------------------------------------->
 
 <!-- SHIELDS and URLS -->
