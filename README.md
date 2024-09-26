@@ -101,7 +101,7 @@ python download_videos.py
 
 ## Demo
 
-The script `demo.py` is provided to showcase the model's capabilities. To run it, execute:
+The script [`demo.py`](demo.py) is provided to showcase the model's capabilities. To run it, execute:
 
 ```bash
 python demo.py <YOUR_VIDEO_NAME> --[options] 
