@@ -55,9 +55,9 @@ Roboflow offers a semi-automatic annotation tool that streamlines the entire pro
 
 <!-------------------------------------------------------------------------------------->
 
-<!-- INSTALLATION & SETUP -->
+<!-- GETTING STARTED -->
 
-## Installation & Setup
+## Getting Started
 
 To get started, first clone the repository (you may also want to fork it):
 
@@ -70,17 +70,29 @@ git clone https://github.com/giuliofantuzzi/Pitch2Data.git
 >  git clone https://github.com/giuliofantuzzi/Pitch2Data.git --branch light-setup --single-branch --depth 1
 >  ```
 
+I recommend creating a virtual environment to avoid conflicts with your system's Python packages:
 
-Next, install the required dependencies
+```bash
+python3 -m virtualenv Pitch2Data_env
+source Pitch2Data_env/bin/activate
+```
+
+Once activated the environment, install the required dependencies with:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Then, set up the environment by executing:
+In order to run the demo, one last configuration step is required
 
 ```bash
 sh setup.sh
+```
+
+Finally, few sample videos can be downloaded from the terminal with:
+
+```bash
+python download_videos.py
 ```
 
 <!-------------------------------------------------------------------------------------->
@@ -89,17 +101,12 @@ sh setup.sh
 
 ## Demo
 
-You can download sample videos directly from the terminal using the following command:
-
-```bash
-python download_videos.py
-```
-
-To run the demo, execute:
+The script `demo.py` is provided to showcase the model's capabilities. To run it, execute:
 
 ```bash
 python demo.py <YOUR_VIDEO_NAME> --[options] 
 ```
+
 To know more about the options (<u>**STRONGLY SUGGESTED**</u>):
 
 ```bash
@@ -127,6 +134,5 @@ python demo.py --help
 [ultralytics-url]: https://www.ultralytics.com/
 
 <!-------------------------------------------------------------------------------------->
-
 
 
