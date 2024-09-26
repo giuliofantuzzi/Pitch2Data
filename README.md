@@ -1,10 +1,5 @@
 <!-------------------------------------------------------------------------------------->
-<!-- REPO STATS and MAIN LIBRARIES -->
-
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
+<!-- REPO MAIN LIBRARIES -->
 [![Python][python-shield]][python-url]
 [![PyTorch][pytorch-shield]][pytorch-url]
 [![Ultralytics][ultralytics-shield]][ultralytics-url]
