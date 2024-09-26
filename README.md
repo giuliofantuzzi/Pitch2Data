@@ -1,6 +1,10 @@
 <!-------------------------------------------------------------------------------------->
 <!-- REPO STATS and MAIN LIBRARIES -->
 
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 [![Python][python-shield]][python-url]
 [![PyTorch][pytorch-shield]][pytorch-url]
 [![Ultralytics][ultralytics-shield]][ultralytics-url]
@@ -16,7 +20,7 @@
     <br />
     <a href="./demo.py">View Demo</a>
     ·
-    <a href="https://github.com/giuliofantuzzi/HMMFootballTactics/issues">Report Bug</a>
+    <a href="https://github.com/giuliofantuzzi/Pitch2Data/issues">Report Bug</a>
     ·
     <a href="https://github.com/giuliofantuzzi/Pitch2Data/issues">Request Feature</a>
     <br />
@@ -118,12 +122,6 @@ python demo.py --help
 [stars-url]: https://github.com/giuliofantuzzi/Pitch2Data/stargazers
 [issues-shield]: https://img.shields.io/github/issues/giuliofantuzzi/Pitch2Data.svg?style=for-the-badge
 [issues-url]: https://github.com/giuliofantuzzi/parallel-quicksort-algorithms/issues
-[license-shield]: https://img.shields.io/github/license/giuliofantuzzi/Pitch2Data.svg?style=for-the-badge
-[license-url]: https://github.com/tallone/giuliofantuzzi/Pitch2Data/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&colorB=0077B5
-[linkedin-url]: https://linkedin.com/in/giuliofantuzzi
-[gmail-shield]: https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&colorB=red
-[gmail-url]: mailto:giulio.fantuzzi01@gmail.com
 [python-shield]: https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&logoColor=%23FECC00&color=%233776AB
 [python-url]: https://www.python.org/
 [pytorch-shield]: https://img.shields.io/badge/PyTorch-PyTorch?style=for-the-badge&logo=PyTorch&logoColor=white&color=orange
