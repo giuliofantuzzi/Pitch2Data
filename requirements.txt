@@ -1,7 +1,7 @@
-torch==2.4.1
+torch<= 2.6.0
 opencv-python==4.10.0.84
 ultralytics==8.2.101
-transformers==4.48.0
+transformers<=4.50.0
 svgpathtools==1.6.1
 svgpath2mpl==1.0.0
 Mplsoccer==1.4.0

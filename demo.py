@@ -30,12 +30,14 @@ if __name__ == "__main__":
     
     # Input video
     parser.add_argument("video",
-                        help = "Name of the video to process (without extension!)"
+                        help = "Name of the video to process (without extension and without input directory!)",
+			type = str
                        )
     
     parser.add_argument("-E","--Extension",
                         default = VIDEO_EXT,
-                        help    = "Extension of the video(e.g: '.mp4','.mov',...)"
+                        help    = "Extension of the video(e.g: '.mp4','.mov',...)",
+			type    = str
                        )
 
     # YOLO models
